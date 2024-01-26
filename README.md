@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supriyo Ghosh</h1>
 <h3 align="center">Aspiring developer from India</h3>
-<img align="right" alt="coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43lqbmbLP5huyvBn_nn2DGm0pvQXPF8e7J0_34PTpeFO87DGSYF2mBOmZn64cH63mqSs&usqp=CAU"/>
+<img align="right" alt="coding" width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
 
 
 
