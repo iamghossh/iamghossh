@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Supriyo Ghosh</h1>
 <h3 align="center">Aspiring developer from India</h3>
-<img align="right" alt="coding" width="200" src="https://github.com/iamghossh/iamghossh/assets/156962917/ab7a7d86-f580-49a1-a49e-108e5eed1c8a"/>
+<img align="right" alt="coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43lqbmbLP5huyvBn_nn2DGm0pvQXPF8e7J0_34PTpeFO87DGSYF2mBOmZn64cH63mqSs&usqp=CAU"/>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamghossh&label=Profile%20views&color=0e75b6&style=flat" alt="iamghossh" /> </p>
